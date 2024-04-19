@@ -1,8 +1,6 @@
 # Digital Dynasty
 
-## Digital Dynasty
-
-**Digital Dynasty** is an enthralling 2D RPG adventure set in a captivating sprite-based world. Assume the role of a lone hero embarking on an epic journey filled with perilous monsters, challenging quests, and valuable treasures.
+***Digital Dynasty*** is a 2D action RPG with sprite-based graphics created in Unity using C#. This game offers captivating battles against monsters, thrilling quests to embark on, and opportunities to explore every corner to collect coins and valuable items.
 
 ## **Key Features:**
 
