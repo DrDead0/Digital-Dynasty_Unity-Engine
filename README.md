@@ -13,13 +13,13 @@
 5. **Inventory System:** Manage your collected items and gear with an intuitive inventory system, allowing for strategic customization.
 6. **Progression and Growth:** Evolve your character by gaining experience through battles and completing quests, unlocking new skills and abilities.
 
-**Technical Details:**
+## **Technical Details:**
 
 - **Game Engine:** Unity
 - **Programming Language:** C#
 - **Art Style:** 2D Sprites
 
-**How to Play:**
+## **How to Play:**
 
 1. Clone the repository.
    ```bash
